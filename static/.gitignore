@@ -1,0 +1,16 @@
+# Binaries for programs
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output of the go command
+/bin/
+/build/
+
+# Dependencies
+vendor/
+
+# Go Modules
+go.sum
